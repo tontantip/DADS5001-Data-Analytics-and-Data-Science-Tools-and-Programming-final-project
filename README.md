@@ -1,9 +1,5 @@
-# 📈 QuantSense - AI Investment Copilot
+# 📈 QuantSense - Your Path to Smart Investing
 
-**Your Path to Smart Investing**  
-เปลี่ยน "ข้อมูลมหาศาล" ให้เป็น "คำตอบที่เรียบง่าย" ในการลงทุน ด้วยพลังของ AI + Machine Learning
-
-![QuantSense Hero](https://images.unsplash.com/photo-1642655358689-56b944d6f5f6?q=80&w=1170&auto=format&fit=crop)
 
 ---
 
@@ -23,7 +19,7 @@
 ในโลกการลงทุนยุคปัจจุบัน เราไม่ได้ขาดแคลนข้อมูล แต่เรากำลัง**จมอยู่กับกองข้อมูลมหาศาล (Information Overload)**  
 ความท้าทายที่แท้จริงคือการ **"สังเคราะห์" (Synthesize)** ข้อมูลเหล่านั้นเพื่อค้นหาเพชรเม็ดงามในตลาดหุ้น
 
-![Information Overload](https://images.unsplash.com/photo-1642655358689-56b944d6f5f6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA &ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Information Overload in the Financial World](https://images.unsplash.com/photo-1642655358689-56b944d6f5f6?q=80&w=1170&auto=format&fit=crop)
 
 ### 🚀 แรงบันดาลใจ
 
@@ -83,24 +79,12 @@
 ## Methodology (วิธีการ)
 
 ### 🤖 AI System (Generative AI)
-ใช้ Large Language Model เป็นผู้เชี่ยวชาญวิเคราะห์ปัจจัยพื้นฐาน แล้วให้คะแนน 0-5 ดาว
 
 ![AI Methodology](https://github.com/tontantip/Archive/blob/main/Image_dads5001_project/Gemini_Generated_Image_fbw36jfbw36jfbw3.png?raw=true)
 
 ### 🧠 Machine Learning
-ใช้ Traditional ML (เช่น Random Forest, XGBoost ฯลฯ) ฝึกด้วยข้อมูลราคาและปริมาณการซื้อขาย 10 ปี เพื่อพยากรณ์แนวโน้มราคา
 
----
 
-## Visualization
-
-แอปพลิเคชันนี้แสดงผลผ่าน **Streamlit Dashboard** ที่รวมทุกข้อมูลสำคัญไว้ในหน้าเดียว:
-- Rating 5 ดาว จาก AI
-- ความน่าจะเป็นราคาจาก ML
-- ข้อมูลการเงินสำคัญ
-- กราฟราคาและปริมาณการซื้อขาย
-
-> ลองใช้งานได้ที่: (ใส่ลิงก์ Streamlit Share หรือ URL ของคุณที่นี่)
 
 ---
 
@@ -109,6 +93,14 @@
 **© 2025 QuantSense Project**  
 Final Project – **DADS5001 Data Analytics and Data Science Tools and Programming**
 
-Made with ❤️ by [ชื่อคุณหรือทีม]
+Made with ❤️ by
+
+Parita Varanusart 6720422012
+
+Tontan Tipakun 6720422016
+
+Piriya Maisomboon 6720422026
+
+Noppawat Choksunthornloet 6720422030 
 
 </div>
