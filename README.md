@@ -84,7 +84,7 @@
 
 ### 🧠 Machine Learning
 
-
+![Machine learning Methodology](https://github.com/tontantip/Archive/blob/main/Image_dads5001_project/ML_Methodology%20(2816%20x%201536%20px).png?raw=true)
 
 ---
 
